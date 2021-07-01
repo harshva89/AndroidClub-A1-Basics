@@ -2,6 +2,13 @@
 
 To set up the environment and create a new application using React Native CLI.
 
+### Steps:
+<ul>
+  <li>npm install react-native-cli</li>
+  <li>npx react-native init NewBasicApp</li>
+  <li>npx react-native run-android (Inside app folder)</li>
+</ul>
+
 ## Creating new application
 
 The default landing page for react native:
