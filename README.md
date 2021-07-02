@@ -1,12 +1,25 @@
-# First Assignment - Getting started
+# AndroidClub-Assignment-1-Getting started
 
 To set up the environment and create a new application using React Native CLI.
 
 ### Steps:
 <ul>
   <li>npm install react-native-cli</li>
-  <li>npx react-native init NewBasicApp</li>
-  <li>npx react-native run-android (Inside app folder)</li>
+  Create a new folder and use the above command.<br>
+  ![1](https://user-images.githubusercontent.com/63179137/124216466-fe2aa000-db13-11eb-9c1d-720f3ee3b715.PNG)
+
+  <br><li>npx react-native init NewBasicApp</li>
+  Initialise app with this command.<br>
+  ![2](https://user-images.githubusercontent.com/63179137/124216511-1ac6d800-db14-11eb-8c54-ab30998e422a.PNG)
+<br>
+  ![3](https://user-images.githubusercontent.com/63179137/124216531-24504000-db14-11eb-9c22-ab0d0bf45fa6.PNG)
+
+  <br><li>npx react-native run-android (Inside app folder)</li>
+  Move inside the app folder and run this command. <br>
+  ![4](https://user-images.githubusercontent.com/63179137/124216570-35994c80-db14-11eb-99c9-ed86d919ff0d.PNG)
+<br>
+  ![5](https://user-images.githubusercontent.com/63179137/124216590-3a5e0080-db14-11eb-917a-e6bdfd0675b7.PNG)
+
 </ul>
 
 ## Creating new application
