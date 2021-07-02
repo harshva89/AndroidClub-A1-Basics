@@ -23,7 +23,7 @@ To set up the environment and create a new application using React Native CLI.
 
 </ul>
 
-## Creating new application
+## Application
 
 The default landing page for react native:
 
