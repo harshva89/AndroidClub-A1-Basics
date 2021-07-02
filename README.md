@@ -6,7 +6,8 @@ To set up the environment and create a new application using React Native CLI.
 <ul>
   <li>npm install react-native-cli</li>
   Create a new folder and use the above command.<br>
-  ![1](https://user-images.githubusercontent.com/63179137/124216466-fe2aa000-db13-11eb-9c1d-720f3ee3b715.PNG)
+  ![1](https://user-images.githubusercontent.com/63179137/124216642-59f52900-db14-11eb-85f9-8ba0e7b72283.PNG)
+
 
   <br><li>npx react-native init NewBasicApp</li>
   Initialise app with this command.<br>
